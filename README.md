@@ -1,6 +1,3 @@
-
-- YouTube: [youtube.com/damppimsen][1]
-
 <a href="https://github.com/damp11113">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=damp11113&theme=github_dark" alt="ChokunPlayZ's GitHub Stats" height="230"/>
 </a>
