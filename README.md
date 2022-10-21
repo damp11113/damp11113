@@ -17,8 +17,6 @@
   contact: damp51252@gmail.com
 </h3>
 
-![image](https://raw.githubusercontent.com/damp11113/damp11113/main/github.png)
-
 <a href="https://github.com/damp11113">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=damp11113&theme=github_dark" height="230"/>
 </a>
