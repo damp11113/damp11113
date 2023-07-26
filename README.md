@@ -1,5 +1,5 @@
 <h2 align="center">
-  Hello World! My name is damp
+  Hello World! My name is Dharm
 </h2>
 
 <h3 align="center">
