@@ -38,6 +38,14 @@
   I'm fueled by the thrill of bringing concepts into reality through code, continuously exploring new technologies and methodologies to enhance my craft. Whether it's designing an elegant website interface, developing an engaging game mechanic, engineering reliable software, optimizing hosting environments, or delving into the world of radio tech, I love the challenge of creating something unique and impactful.
 </p>
 
+<h2>📚 Gists</h2>
+
+<p>
+  Check out some of my code snippets and shorter projects on Gist!
+  <br>
+  📝 <a href="https://gist.github.com/damp11113">Gist Profile</a>: Explore my Gist profile for code snippets and smaller projects.
+</p>
+
 <h2>🌟 Let's Connect!</h2>
 
 <p>
