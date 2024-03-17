@@ -15,7 +15,8 @@ I specialize in leveraging cloud technologies for seamless hosting and deploymen
 
 ## 🐍 Python Library Project
 
-- [damp11113](https://github.com/damp11113/damp11113-library): A Python library project aimed at providing an easy-to-use, all-in-one function, low-code solution. Proud to present the [PyserSSH](https://github.com/damp11113/damp11113-library/wiki/PyserSSH) - it's an SSH server for remote access to your functions.
+- [damp11113](https://github.com/damp11113/damp11113-library): A Python library project aimed at providing an easy-to-use, all-in-one function, low-code solution.
+- [PyserSSH](https://github.com/damp11113/PyserSSH) - it's an scriptable ssh server for remote access to your functions/project.
 
 ## 🚀 What I'm Up To
 
