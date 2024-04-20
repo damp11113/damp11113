@@ -38,7 +38,6 @@ Feel free to explore my repositories and reach out for collaboration, discussion
 - 🐦 [Twitter](https://twitter.com/damp11113)
 - 🎥 [YouTube](https://www.youtube.com/c/damppimsen/)
 - 💬 [Discord](https://discord.com/invite/5bBCHcM4Jg)
-- 🎵 [TikTok](https://www.tiktok.com/@damp11113)
 - ...and more in [TreeLink](https://tree.damp11113.xyz)!
 
 ## 🌐 Explore my Websites
