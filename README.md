@@ -13,10 +13,12 @@ I'm a multi-disciplinary developer passionate about crafting immersive websites 
 
 I specialize in leveraging cloud technologies for seamless hosting and deployment of web applications. From configuring cloud infrastructure to optimizing hosting environments, I ensure efficient and scalable solutions tailored to specific project needs. Experienced in [DPCloudev](https://damp11113.xyz), I aim to create reliable and performant hosting environments for various projects.
 
-## 🐍 Python Library Project
-
+## 🐍 Python Project
 - [damp11113](https://github.com/damp11113/damp11113-library): A Python library project aimed at providing an easy-to-use, all-in-one function, low-code solution.
-- [PyserSSH](https://github.com/damp11113/PyserSSH) - it's an scriptable ssh server for remote access to your functions/project.
+- [PyserSSH](https://github.com/damp11113/PyserSSH) - It's an scriptable ssh server for remote access to your functions/project.
+- [PyVDE](https://github.com/damp11113/PyVDE) - A Desktop Virtual Environment.
+- [qOpus Encoder](https://github.com/damp11113/qOpusEnc) - It's opus codec convert gui based on pyogg.
+- [xHE-Opus](https://github.com/damp11113/xHE-Opus) - A Very High Performace Opus with Dual Encoder.
 
 ## 🚀 What I'm Up To
 
