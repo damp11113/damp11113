@@ -18,7 +18,7 @@ I specialize in leveraging cloud technologies for seamless hosting and deploymen
 - [PyserSSH](https://github.com/damp11113/PyserSSH) - It's an scriptable ssh server for remote access to your functions/project.
 - [PyVDE](https://github.com/damp11113/PyVDE) - A Desktop Virtual Environment.
 - [qOpus Encoder](https://github.com/damp11113/qOpusEnc) - It's opus codec convert gui based on pyogg.
-- [xHE-Opus](https://github.com/damp11113/xHE-Opus) - A Very High Performace Opus with Dual Encoder.
+- [xHE-Opus](https://github.com/damp11113/xHE-Opus) - A Very High Performace Opus.
 
 ## 🚀 What I'm Up To
 
