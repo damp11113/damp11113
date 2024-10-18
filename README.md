@@ -9,10 +9,6 @@ I'm a multi-disciplinary developer passionate about crafting immersive websites 
 - **Software Engineering:** Creating robust software solutions with an eye on efficiency and user experience. (See [DPSoftware Foundation](https://damp11113.xyz/dpsoftware))
 - **Radio Projects:** Exploring the intersection of technology and radio, including [SDR](https://en.wikipedia.org/wiki/Software-defined_radio), leveraging skills to innovate in this unique domain. (See [ThaiSDR](https://damp11113.xyz/thaisdr) Project)
 
-## ☁️ Cloud & Hosting Expertise
-
-I specialize in leveraging cloud technologies for seamless hosting and deployment of web applications. From configuring cloud infrastructure to optimizing hosting environments, I ensure efficient and scalable solutions tailored to specific project needs. Experienced in [DPCloudev](https://damp11113.xyz), I aim to create reliable and performant hosting environments for various projects.
-
 ## 🐍 Python Project
 - [damp11113](https://github.com/damp11113/damp11113-library): A Python library project aimed at providing an easy-to-use, all-in-one function, low-code solution.
 - [PyserSSH](https://github.com/DPSoftware-Foundation/PyserSSH) - It's an scriptable ssh server for remote access to your functions/project.
