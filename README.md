@@ -7,7 +7,7 @@ I'm a multi-disciplinary developer passionate about crafting immersive websites 
 - **Website Development:** Crafting engaging and responsive websites with a blend of aesthetics and functionality.
 - **Game Development:** Building interactive and entertaining games that bring ideas to life.
 - **Software Engineering:** Creating robust software solutions with an eye on efficiency and user experience.
-- **Radio Projects:** Exploring the intersection of technology and radio, including [SDR](https://en.wikipedia.org/wiki/Software-defined_radio), leveraging skills to innovate in this unique domain.
+- **Radio Projects:** Exploring the intersection of technology and radio, including [SDR](https://en.wikipedia.org/wiki/Software-defined_radio), leveraging skills to innovate in this unique domain. (See [ThaiSDR](https://damp11113.xyz/thaisdr) Project)
 
 ## ☁️ Cloud & Hosting Expertise
 
@@ -15,14 +15,15 @@ I specialize in leveraging cloud technologies for seamless hosting and deploymen
 
 ## 🐍 Python Project
 - [damp11113](https://github.com/damp11113/damp11113-library): A Python library project aimed at providing an easy-to-use, all-in-one function, low-code solution.
-- [PyserSSH](https://github.com/damp11113/PyserSSH) - It's an scriptable ssh server for remote access to your functions/project.
+- [PyserSSH](https://github.com/DPSoftware-Foundation/PyserSSH) - It's an scriptable ssh server for remote access to your functions/project.
 - [PyVDE](https://github.com/damp11113/PyVDE) - A Desktop Virtual Environment.
 - [qOpus Encoder](https://github.com/damp11113/qOpusEnc) - It's opus codec convert gui based on pyogg.
 - [xHE-Opus](https://github.com/damp11113/xHE-Opus) - A Very High Performace Opus.
+- [ccIDE](https://github.com/DPSoftware-Foundation/ccIDE) - The ComputerCraft editor with blockly.
 
 ## 🚀 What I'm Up To
 
-- 🔭 Currently working on [IDRB Project](https://github.com/damp11113/IDRB), an Internet Digital Radio Broadcasting system.
+- 🔭 Currently working on [ccIDE](https://github.com/DPSoftware-Foundation/ccIDE), The ComputerCraft editor with blockly.
 - 🌱 Learning Advanced Python Programming to expand my toolkit and dive deeper into Artificial Intelligence.
 
 ## 💡 What Drives Me
@@ -38,7 +39,7 @@ Check out some of my code snippets and shorter projects on Gist!
 
 Feel free to explore my repositories and reach out for collaboration, discussions, or just to say hello! You can find me on:
 - 🐦 [Twitter](https://twitter.com/damp11113)
-- 🎥 [YouTube](https://www.youtube.com/c/damppimsen/)
+- 🎥 [YouTube](https://youtube.com/@damp11113)
 - 💬 [Discord](https://discord.com/invite/5bBCHcM4Jg)
 - ...and more in [TreeLink](https://tree.damp11113.xyz)!
 
@@ -46,5 +47,5 @@ Feel free to explore my repositories and reach out for collaboration, discussion
 
 Check out my websites to explore various projects and more!
 - 🌳 [TreeLink](https://tree.damp11113.xyz): Dive into my TreeLink site to explore various resources and projects.
-- ⛅ [Cloud Website](https://damp11113.xyz): Visit my website to see some of my latest projects!
+- ⛅ [Website](https://damp11113.xyz): Visit my website to see some of my latest projects!
 - 🍵 [Gitea](https://git.damp11113.xyz): For very big project!
