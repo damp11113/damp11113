@@ -5,8 +5,8 @@ I'm a multi-disciplinary developer passionate about crafting immersive websites 
 ## 👨‍💼 What I Do
 
 - **Website Development:** Crafting engaging and responsive websites with a blend of aesthetics and functionality.
-- **Game Development:** Building interactive and entertaining games that bring ideas to life.
-- **Software Engineering:** Creating robust software solutions with an eye on efficiency and user experience.
+- **Game Development:** Building interactive and entertaining games that bring ideas to life. (See [DPGame](https://damp11113.xyz/dpgame))
+- **Software Engineering:** Creating robust software solutions with an eye on efficiency and user experience. (See [DPSoftware Foundation](https://damp11113.xyz/dpsoftware))
 - **Radio Projects:** Exploring the intersection of technology and radio, including [SDR](https://en.wikipedia.org/wiki/Software-defined_radio), leveraging skills to innovate in this unique domain. (See [ThaiSDR](https://damp11113.xyz/thaisdr) Project)
 
 ## ☁️ Cloud & Hosting Expertise
