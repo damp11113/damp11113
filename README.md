@@ -2,6 +2,8 @@
 
 I'm a multi-disciplinary developer passionate about crafting immersive websites 🌐, captivating games 🎮, robust software applications 💻, and tinkering with radio-related projects 📻. With a creative mindset and a knack for problem-solving, I thrive on the excitement of diving into various realms of development.
 
+or see: https://damp11113.xyz/about
+
 ## 👨‍💼 What I Do
 
 - **Website Development:** Crafting engaging and responsive websites with a blend of aesthetics and functionality.
