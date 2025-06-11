@@ -1,3 +1,5 @@
+![damp11113_wallpaper3](https://github.com/user-attachments/assets/126b08b8-86ac-4ebf-a36f-cf1030d0a109)
+
 # Hi there! 🙋 I'm Dharm (aka "damp11113") 👨‍💻🎮📻
 
 A 15-year-old developer living in Phuket, Thailand. I'm a multi-disciplinary developer passionate about crafting immersive websites 🌐, captivating games 🎮, robust software applications 💻, and tinkering with radio-related projects 📻. With a creative mindset and a knack for problem-solving, I thrive on the excitement of diving into various realms of development.
