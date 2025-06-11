@@ -1,4 +1,4 @@
-![damp11113_wallpaper3](https://github.com/user-attachments/assets/126b08b8-86ac-4ebf-a36f-cf1030d0a109)
+![damp11113_wallpaper3](https://github.com/user-attachments/assets/aa539df8-498e-4219-aefd-eb8bd896c8dd)
 
 # Hi there! 🙋 I'm Dharm (aka "damp11113") 👨‍💻🎮📻
 
