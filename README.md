@@ -28,7 +28,7 @@ or see: https://damp11113.xyz/about
 
 - 🔭 I’m currently working on [UAVSimulator](https://github.com/DPGame-Foundation/DroneSimulator)
 - 🌱 I’m currently learning **Advanced Python Programming to expand my toolkit and dive deeper into Artificial Intelligence.**
-- 👯 I’m looking to collaborate on [UAVSimulator](https://github.com/DPGame-Foundation/DroneSimulator)
+- 👯 I’m looking to collaborate on [PyserSSH](https://github.com/DPSoftware-Foundation/PyserSSH)
 - 👨‍💻 All of my projects are available at [damp11113.xyz](https://damp11113.xyz)
 - 💬 Ask me about **Open Source Thing...**
 - 📫 How to reach me **contact@damp11113.xyz**
