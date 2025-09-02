@@ -29,7 +29,7 @@ or see: https://damp11113.xyz/about
 - 👯 I’m looking to collaborate on [PyserSSH](https://github.com/DPSoftware-Foundation/PyserSSH)
 - 👨‍💻 All of my projects are available at [damp11113.xyz](https://damp11113.xyz)
 - 💬 Ask me about **Open Source Thing...**
-- 📫 How to reach me **contact@damp11113.xyz**
+- 📫 How to reach me **dharmvee@damp11113.xyz**
 
 ## 💡 What Drives Me
 
