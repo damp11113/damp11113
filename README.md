@@ -1,4 +1,4 @@
-# Hi there! 🙋 I'm Dharm (aka "damp11113") 👨‍💻🎮📻
+# Hi there! 🙋 I'm Dharm (aka "damp11113" or "Dharmvee") 👨‍💻🎮📻
 
 A 15-year-old developer living in Phuket, Thailand. I'm a multi-disciplinary developer passionate about crafting immersive websites 🌐, captivating games 🎮, robust software applications 💻, and tinkering with radio-related projects 📻. With a creative mindset and a knack for problem-solving, I thrive on the excitement of diving into various realms of development.
 
