@@ -1,34 +1,25 @@
-# Hi there! 🙋 I'm Dharm (aka "damp11113" or "Dharmvee") 👨‍💻🎮📻
+# Hi there! 🙋 I'm Dharm (aka "damp11113" or "Dharmvee") 👨‍💻
 
-A 16-year-old developer living in Phuket, Thailand. I'm a multi-disciplinary developer passionate about crafting immersive websites 🌐, captivating games 🎮, robust software applications 💻, and tinkering with radio-related projects 📻. With a creative mindset and a knack for problem-solving, I thrive on the excitement of diving into various realms of development.
+A 16-year-old developer living in Phuket, Thailand. I'm a multi-disciplinary developer passionate. With a creative mindset and a knack for problem-solving, I thrive on the excitement of diving into various realms of development.
 
 or see: https://damp11113.xyz/about
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=damp11113&show_icons=true&locale=en&layout=compact&theme=dark" alt="damp11113" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=damp11113&show_icons=true&locale=en&theme=dark" alt="damp11113" /></p>
 
 ## 👨‍💼 What I Do
 
 - **Website Development:** Crafting engaging and responsive websites with a blend of aesthetics and functionality.
 - **Game Development:** Building interactive and entertaining games that bring ideas to life. (See [DPGame](https://damp11113.xyz/dpgame))
-- **Software Engineering:** Creating robust software solutions with an eye on efficiency and user experience. (See [DPSoftware Foundation](https://damp11113.xyz/dpsoftware))
-- **Radio Projects:** Exploring the intersection of technology and radio, including [SDR](https://en.wikipedia.org/wiki/Software-defined_radio), leveraging skills to innovate in this unique domain. (See [ThaiSDR](https://damp11113.xyz/thaisdr) Project)
+- **Software Engineering:** Creating robust software solutions with an eye on efficiency and user experience. (See [DPSoftware Technologies](https://damp11113.xyz/dpsoftware))
 
-## 🐍 Python Project
-- [damp11113](https://github.com/damp11113/damp11113-library): A Python library project aimed at providing an easy-to-use, all-in-one function, low-code solution.
+## Project
 - [PyserSSH](https://github.com/DPSoftware-Foundation/PyserSSH) - It's an scriptable ssh server for remote access to your functions/project.
-- [PyVDE](https://github.com/damp11113/PyVDE) - A Desktop Virtual Environment.
-- [qOpus Encoder](https://github.com/damp11113/qOpusEnc) - It's opus codec convert gui based on pyogg.
-- [xHE-Opus](https://github.com/damp11113/xHE-Opus) - A Very High Performace Opus.
+- [damp11113](https://github.com/damp11113/damp11113-library): A Python library project aimed at providing an easy-to-use, all-in-one function, low-code solution.
 - [ccIDE](https://github.com/DPSoftware-Foundation/ccIDE) - The ComputerCraft editor with blockly.
 
 ## 🚀 What I'm Up To
 
-- 🔭 I’m currently working on [UAVSimulator](https://github.com/DPGame-Foundation/DroneSimulator)
-- 🌱 I’m currently learning **Advanced Python Programming to expand my toolkit and dive deeper into Artificial Intelligence.**
+- 🔭 I’m currently working on [MFoES](https://github.com/DPSoftware-Technologies/MFoES)
+- 🌱 I’m currently learning **Embedded System** for small device.
 - 👯 I’m looking to collaborate on [PyserSSH](https://github.com/DPSoftware-Foundation/PyserSSH)
-- 👨‍💻 All of my projects are available at [damp11113.xyz](https://damp11113.xyz)
-- 💬 Ask me about **Open Source Thing...**
 - 📫 How to reach me **dharmvee@damp11113.xyz**
 
 ## 💡 What Drives Me
@@ -54,7 +45,6 @@ Feel free to explore my repositories and reach out for collaboration, discussion
 ## 🌐 Explore my Websites
 
 Check out my websites to explore various projects and more!
-- 🌳 [TreeLink](https://tree.damp11113.xyz): Dive into my TreeLink site to explore various resources and projects.
 - ⛅ [Website](https://damp11113.xyz): Visit my website to see some of news or my latest projects!
 - 🍵 [Gitea](https://git.damp11113.xyz): For very big project!
 
