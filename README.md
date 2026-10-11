@@ -2,8 +2,6 @@
 
 A 16-year-old developer living in Phuket, Thailand. I'm a multi-disciplinary developer passionate. With a creative mindset and a knack for problem-solving, I thrive on the excitement of diving into various realms of development.
 
-or see: https://damp11113.xyz/about
-
 ## 👨‍💼 What I Do
 
 - **Website Development:** Crafting engaging and responsive websites with a blend of aesthetics and functionality.
@@ -35,4 +33,10 @@ Check out some of my code snippets and shorter projects on Gist!
 
 Check out my websites to explore various projects and more!
 - ⛅ [Website](https://damp11113.xyz): Visit my website to see some of news or my latest projects!
-- 🍵 [Gitea](https://git.damp11113.xyz): For very big project!
+- 🍵 [Gitea](https://git.ptlcb.net): For very big project!
+
+## Donate
+
+For Thai people (PromptPay): You can donate at my [EasyDonate](https://easydonate.app/damp11113).
+
+For international people: Maybe in future!
